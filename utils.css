@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+}
+
+.bg-blue{
+    background: black;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.btn-orange{
+    background-color: orange;
+}
+
+.btn-grey{
+    background-color: rgb(200, 198, 198);
+}
+
+.btn-dark{
+    background-color: rgb(65, 64, 64);
+}
